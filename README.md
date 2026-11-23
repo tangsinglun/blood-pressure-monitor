@@ -1,4 +1,4 @@
-# Blood-Pressue-Monitor
+# Blood-Pressure-Monitor
 
 ## Systolic measurement has always been a main references of indicating whether a person has high blood presure or not. However by combining the Diastolic reading it is really hard to determine whether a person has high blood presure. According to the Medical associations Diastolic is the main causes of heart attack, heart stroke. Therefore the indications of the blood pressure would also take account on the Diastolic readings.  
 
